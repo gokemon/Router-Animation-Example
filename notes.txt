@@ -1,0 +1,7 @@
+
+
+
+
+
+==============================
+http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
