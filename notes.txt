@@ -1,7 +1,20 @@
 
 
 
+https://github.com/angular/angular-cli/wiki/generate-component
+
+ng generate component [name]
+ng generate component home
+ng generate component product-list --flat
+ng generate component product-add-edit --flat
+
+
+ng generate service  NAME  --spec=false  --flat
+
 
 
 ==============================
 http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
+
+also 
+https://app.pluralsight.com/library/courses/angular-routing/table-of-contents
