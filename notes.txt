@@ -11,7 +11,11 @@ ng generate component product-add-edit --flat
 
 ng generate service  NAME  --spec=false  --flat
 
+-------------------
+git tag example
 
+If we want to make it as an annotated tag, we need to supply -a, and a message with -m
+git tag -a v1.0.1 -m "adding some Bootstrap styling"
 
 ==============================
 http://jasonwatmore.com/post/2017/04/19/angular-2-4-router-animation-tutorial-example
